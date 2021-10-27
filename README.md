@@ -7,11 +7,11 @@
 Hello the World, my current passion is building the dws4 project while learning a couple of new things.
 ### ✨ 1. How is my company is creating value? ✨
 
-The Best thing to begin learning Lifetime Group is to read this value proposition.
+The Best thing to begin learning Lifetime Group is our value proposition.
 
 (<https://github.com/blogtheristo/portfolio/blob/main/Value/0921_How%20we%20create%20value.pdf>)
 
-### Couple of links of (dws 4 platoform for intelligent industris project) 🤝
+### the dws 4 platform for intelligent industries as a project 🤝
 
 <a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
 <a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.jpg" alt="blogtheristo | StackShare" width="26px"/></a>
