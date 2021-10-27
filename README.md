@@ -13,7 +13,7 @@ The Best thing to begin learning Lifetime Group is our value proposition.
 
 ### the dws 4 platform for intelligent industries as a project 🤝
 
-<a href="https://www.linkedin.com/in/ristoanton/"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="Risto Anton | LinkedIn" width="26px"/></a>
+<a href="https://github.com/blogtheristo/investor_2022/blob/10a73727216cadfd3dd3330e05a7a732dda60cad/10gPitch_LTG021%20(1).pdf"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/li.png" alt="dws4 Pitch Deck" width="26px"/></a>
 <a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.jpg" alt="blogtheristo | StackShare" width="26px"/></a>
 
 <a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/twitch.png" alt="blogtheristo | Medium" width="26px"/></a>
@@ -180,10 +180,14 @@ Business Automation
 
 ⭐ Microsoft Power Apps
 
-💖 On his freetime Risto Anton is passionate about Gym training, especially running PB 1:22.20 (half-marathon).
-He likes to play guitar with friends and enjoys  a cup of dark roasted coffee whenever it is available.
+💖 On his freetime Risto Anton is passionate about Gym training,   
+especially running PB 1:22.20 (half-marathon).  
+He likes to play guitar with friends and enjoys.   
+a cup of dark roasted coffee whenever it is available.  
 
-(201021)
-<a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png" alt="Cloud Native Trail Map"></a>
-</p>
-https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png
+(261021). 
+<a href="https://lifetime.fi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png" alt="Cloud Native Trail Map"></a>. 
+  
+  
+https://raw.githubusercontent.com/cncf/trailmap/master/CNCF_TrailMap_latest.png. 
+
