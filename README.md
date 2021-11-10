@@ -22,7 +22,7 @@ The Best thing to begin learning Lifetime Group is our value proposition.
 If you have any project questions please do not hesitate to reach out to me.
 Find my CVs at <https://github.com/blogtheristo/cv>
 
-## 🔭 the Project Portfolio Pages
+## 🔭 the Project DWS Roadmap
 
 <li> Lifetime Digital Workspace (dws) for inttelligent industries accepted into AWS innovate 2022</li> 
 <li> Smart Building Application </li> hydrogen
