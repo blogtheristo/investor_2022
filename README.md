@@ -24,7 +24,7 @@ Find my CVs at <https://github.com/blogtheristo/cv>
 
 ## 🔭 the Project Portfolio Pages
 
-<li> Lifetime Digital Workspace (dws4) </li> dws4
+<li> Lifetime Digital Workspace (dws) for inttelligent industries accepted into AWS innovate 2022</li> 
 <li> Smart Building Application </li> hydrogen
 <li> <a href="https://blogtheristo.github.io/portfolio/"> the Project Portfolio Pages </li>
 
