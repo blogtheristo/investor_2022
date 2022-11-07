@@ -17,16 +17,14 @@ The Best thing to begin learning Lifetime Group is our value proposition.
 <a href="https://stackshare.io/blogtheristo"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/stack.jpg" alt="blogtheristo | StackShare" width="26px"/></a>
 
 <a href="https://www.twitch.tv/blogtheristo22"><img align="left" src="https://raw.githubusercontent.com/blogtheristo/blogtheristo/main/icon/twitch.png" alt="blogtheristo | Medium" width="26px"/></a>
-</br>
-</br>
-If you have any project questions please do not hesitate to reach out to me.
-Find my CVs at <https://github.com/blogtheristo/cv>
+
 
 ## 🔭 the Project DWS Roadmap
 
-<li> Lifetime Digital Workspace (dws) for inttelligent industries accepted into AWS innovate 2022</li> 
-<li> Smart Building Application </li> hydrogen
-<li> <a href="https://blogtheristo.github.io/portfolio/"> the Project Portfolio Pages </li>
+### Lifetime Digital Workspace (dws) for intelligent industries accepted into AWS innovate 2023 
+
+### [FounderPath dws10](https://app.founderpath.com/companies/8262/)
+
 
 # Interesting to me
 
